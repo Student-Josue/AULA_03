@@ -1,2 +1,2 @@
 # AULA_03
-Josué Araújo 
+Josué Araújo e Guilherme Melo
